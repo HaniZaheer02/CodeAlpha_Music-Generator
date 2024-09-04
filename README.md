@@ -1,2 +1,2 @@
 # CodeAlpha_Music-Generator
-Music Generator
+Task 3
